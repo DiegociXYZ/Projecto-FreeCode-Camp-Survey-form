@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Projecto-FreeCode-Camp-Survey-form/SurveyCapture.PNG)
 
 Additional description about the project and its features.
 
