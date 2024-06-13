@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./SurveyCapture.PNG)
+![screenshot](./sanabiss.PNG)
 
 Additional description about the project and its features.
 
